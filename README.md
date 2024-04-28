@@ -1,10 +1,11 @@
 <h2> Labb 3 - API, How to use it / Get data <h2>
 
-**GET ALL IN THE SYSTEM**
+**GET ALL PEOPLE**
+
 ![GetAll](https://github.com/Isacelf/Labb3-API/assets/145432445/d3a3249c-6661-4ef7-bea2-0ff7cc6715cd)
 
 
-**GET ALL INTEREST CONNECTED TO A SPECIFIC PERSON**
+**GET ALL INTERESTS CONNECTED TO A SPECIFIC PERSON**
 ![GetPersonInterestFromId](https://github.com/Isacelf/Labb3-API/assets/145432445/988b7e2c-84d7-4bf4-ae21-7427a491dcab)
 
 
